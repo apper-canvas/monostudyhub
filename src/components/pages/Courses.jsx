@@ -211,15 +211,25 @@ const Courses = () => {
               selectedColor={formData.color}
               onColorChange={(color) => setFormData(prev => ({ ...prev, color }))}
               className="md:col-span-1"
-            />
+/>
             
-            <div className="md:col-span-2 flex items-center gap-3 pt-4">
-              <Button type="submit">
-                <ApperIcon name={editingCourse ? "Save" : "Plus"} className="w-4 h-4" />
-                {editingCourse ? "Update Course" : "Add Course"}
+            <div className="col-span-1 md:col-span-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-3 pt-4 w-full">
+              <Button 
+                type="submit" 
+                className="w-full sm:w-auto min-h-[44px] flex items-center justify-center gap-2 px-6 py-3"
+              >
+                <ApperIcon name={editingCourse ? "Save" : "Plus"} className="w-4 h-4 flex-shrink-0" />
+                <span className="whitespace-nowrap">
+                  {editingCourse ? "Update Course" : "Add Course"}
+                </span>
               </Button>
-              <Button type="button" variant="secondary" onClick={resetForm}>
-                Cancel
+              <Button 
+                type="button" 
+                variant="secondary" 
+                onClick={resetForm}
+                className="w-full sm:w-auto min-h-[44px] flex items-center justify-center gap-2 px-6 py-3"
+              >
+                <span className="whitespace-nowrap">Cancel</span>
               </Button>
             </div>
           </form>
