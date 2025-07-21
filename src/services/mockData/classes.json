@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "dayOfWeek": 1,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "location": "Engineering Building 201",
+    "type": "Lecture"
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "dayOfWeek": 3,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "location": "Engineering Building 201",
+    "type": "Lecture"
+  },
+  {
+    "Id": 3,
+    "courseId": 1,
+    "dayOfWeek": 5,
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "location": "Computer Lab 105",
+    "type": "Lab"
+  },
+  {
+    "Id": 4,
+    "courseId": 2,
+    "dayOfWeek": 2,
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "location": "Mathematics Building 304",
+    "type": "Lecture"
+  },
+  {
+    "Id": 5,
+    "courseId": 2,
+    "dayOfWeek": 4,
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "location": "Mathematics Building 304",
+    "type": "Lecture"
+  },
+  {
+    "Id": 6,
+    "courseId": 2,
+    "dayOfWeek": 1,
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "location": "Mathematics Building 110",
+    "type": "Recitation"
+  },
+  {
+    "Id": 7,
+    "courseId": 3,
+    "dayOfWeek": 1,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "location": "ECE Building 150",
+    "type": "Lecture"
+  },
+  {
+    "Id": 8,
+    "courseId": 3,
+    "dayOfWeek": 3,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "location": "ECE Building 150",
+    "type": "Lecture"
+  },
+  {
+    "Id": 9,
+    "courseId": 3,
+    "dayOfWeek": 2,
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "location": "ECE Lab 120",
+    "type": "Lab"
+  },
+  {
+    "Id": 10,
+    "courseId": 4,
+    "dayOfWeek": 2,
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "location": "Liberal Arts 225",
+    "type": "Seminar"
+  },
+  {
+    "Id": 11,
+    "courseId": 4,
+    "dayOfWeek": 4,
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "location": "Liberal Arts 225",
+    "type": "Seminar"
+  },
+  {
+    "Id": 12,
+    "courseId": 5,
+    "dayOfWeek": 3,
+    "startTime": "16:00",
+    "endTime": "17:30",
+    "location": "Computer Science 340",
+    "type": "Lecture"
+  },
+  {
+    "Id": 13,
+    "courseId": 5,
+    "dayOfWeek": 5,
+    "startTime": "16:00",
+    "endTime": "17:30",
+    "location": "Computer Science 340",
+    "type": "Lecture"
+  },
+  {
+    "Id": 14,
+    "courseId": 5,
+    "dayOfWeek": 4,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Database Lab 215",
+    "type": "Lab"
+  }
+]

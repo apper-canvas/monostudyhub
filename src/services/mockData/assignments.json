@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "courseId": 1,
+    "title": "Binary Tree Implementation",
+    "description": "Implement a balanced binary search tree with insert, delete, and search operations",
+    "dueDate": "2024-01-25",
+    "priority": "high",
+    "status": "in-progress",
+    "grade": null,
+    "category": "Homework"
+  },
+  {
+    "Id": 2,
+    "courseId": 1,
+    "title": "Algorithm Complexity Quiz",
+    "description": "Quiz covering Big O notation and time complexity analysis",
+    "dueDate": "2024-01-22",
+    "priority": "medium",
+    "status": "completed",
+    "grade": 88,
+    "category": "Quizzes"
+  },
+  {
+    "Id": 3,
+    "courseId": 2,
+    "title": "Vector Calculus Problem Set",
+    "description": "Problems 1-15 from Chapter 12, focusing on partial derivatives and gradients",
+    "dueDate": "2024-01-24",
+    "priority": "medium",
+    "status": "pending",
+    "grade": null,
+    "category": "Homework"
+  },
+  {
+    "Id": 4,
+    "courseId": 2,
+    "title": "Multiple Integrals Exam",
+    "description": "Midterm exam covering double and triple integrals",
+    "dueDate": "2024-01-28",
+    "priority": "high",
+    "status": "pending",
+    "grade": null,
+    "category": "Midterm"
+  },
+  {
+    "Id": 5,
+    "courseId": 3,
+    "title": "Logic Gate Circuit Design",
+    "description": "Design and simulate a 4-bit adder circuit using basic logic gates",
+    "dueDate": "2024-01-26",
+    "priority": "high",
+    "status": "in-progress",
+    "grade": null,
+    "category": "Labs"
+  },
+  {
+    "Id": 6,
+    "courseId": 3,
+    "title": "Boolean Algebra Quiz",
+    "description": "Quiz on Boolean algebra simplification and Karnaugh maps",
+    "dueDate": "2024-01-23",
+    "priority": "low",
+    "status": "completed",
+    "grade": 92,
+    "category": "Assignments"
+  },
+  {
+    "Id": 7,
+    "courseId": 4,
+    "title": "Technical Report Draft",
+    "description": "First draft of technical report on renewable energy systems",
+    "dueDate": "2024-01-30",
+    "priority": "medium",
+    "status": "pending",
+    "grade": null,
+    "category": "Reports"
+  },
+  {
+    "Id": 8,
+    "courseId": 4,
+    "title": "Peer Review Assignment",
+    "description": "Review and provide feedback on classmate's technical proposal",
+    "dueDate": "2024-01-27",
+    "priority": "low",
+    "status": "completed",
+    "grade": 95,
+    "category": "Participation"
+  },
+  {
+    "Id": 9,
+    "courseId": 5,
+    "title": "Database Schema Design",
+    "description": "Design normalized database schema for online bookstore system",
+    "dueDate": "2024-01-29",
+    "priority": "high",
+    "status": "pending",
+    "grade": null,
+    "category": "Projects"
+  },
+  {
+    "Id": 10,
+    "courseId": 5,
+    "title": "SQL Query Practice",
+    "description": "Complete advanced SQL queries for join operations and subqueries",
+    "dueDate": "2024-01-24",
+    "priority": "medium",
+    "status": "in-progress",
+    "grade": null,
+    "category": "Quizzes"
+  },
+  {
+    "Id": 11,
+    "courseId": 1,
+    "title": "Graph Algorithms Project",
+    "description": "Implement Dijkstra's shortest path and Prim's minimum spanning tree algorithms",
+    "dueDate": "2024-02-05",
+    "priority": "high",
+    "status": "pending",
+    "grade": null,
+    "category": "Homework"
+  },
+  {
+    "Id": 12,
+    "courseId": 2,
+    "title": "Line Integrals Homework",
+    "description": "Problems involving line integrals and Green's theorem",
+    "dueDate": "2024-02-02",
+    "priority": "medium",
+    "status": "pending",
+    "grade": null,
+    "category": "Homework"
+  }
+]

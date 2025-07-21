@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "name": "Data Structures and Algorithms",
+    "code": "CS 201",
+    "instructor": "Dr. Sarah Johnson",
+    "credits": 4,
+    "color": "#4F46E5",
+    "semester": "Fall 2024",
+    "currentGrade": 87.5,
+    "gradeCategories": [
+      { "name": "Homework", "weight": 20 },
+      { "name": "Quizzes", "weight": 15 },
+      { "name": "Midterm", "weight": 25 },
+      { "name": "Final", "weight": 40 }
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Calculus III",
+    "code": "MATH 203",
+    "instructor": "Prof. Michael Chen",
+    "credits": 3,
+    "color": "#7C3AED",
+    "semester": "Fall 2024",
+    "currentGrade": 92.3,
+    "gradeCategories": [
+      { "name": "Homework", "weight": 25 },
+      { "name": "Quizzes", "weight": 20 },
+      { "name": "Midterm", "weight": 25 },
+      { "name": "Final", "weight": 30 }
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Digital Logic Design",
+    "code": "ECE 150",
+    "instructor": "Dr. Emily Rodriguez",
+    "credits": 3,
+    "color": "#EC4899",
+    "semester": "Fall 2024",
+    "currentGrade": 89.7,
+    "gradeCategories": [
+      { "name": "Labs", "weight": 30 },
+      { "name": "Assignments", "weight": 25 },
+      { "name": "Midterm", "weight": 20 },
+      { "name": "Final", "weight": 25 }
+    ]
+  },
+  {
+    "Id": 4,
+    "name": "Technical Writing",
+    "code": "ENG 315",
+    "instructor": "Prof. David Kim",
+    "credits": 3,
+    "color": "#10B981",
+    "semester": "Fall 2024",
+    "currentGrade": 94.1,
+    "gradeCategories": [
+      { "name": "Essays", "weight": 40 },
+      { "name": "Reports", "weight": 35 },
+      { "name": "Participation", "weight": 15 },
+      { "name": "Final Project", "weight": 10 }
+    ]
+  },
+  {
+    "Id": 5,
+    "name": "Database Systems",
+    "code": "CS 340",
+    "instructor": "Dr. Lisa Park",
+    "credits": 3,
+    "color": "#F59E0B",
+    "semester": "Fall 2024",
+    "currentGrade": 85.9,
+    "gradeCategories": [
+      { "name": "Projects", "weight": 35 },
+      { "name": "Quizzes", "weight": 20 },
+      { "name": "Midterm", "weight": 20 },
+      { "name": "Final", "weight": 25 }
+    ]
+  }
+]
